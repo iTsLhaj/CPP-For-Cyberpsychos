@@ -2,7 +2,7 @@
 
 _**A Beginner Friendly C++ Course**_ 💀
 
-<img hight="600" width="900" alt="Thumbnail" align="center" src="assets/another-thumbnail.png">
+<img hight="600" width="900" alt="Thumbnail" align="center" src="assets/final_thumbnail.png">
 <br/>
 <br/>
 
